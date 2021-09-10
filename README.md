@@ -1,6 +1,6 @@
 ## How to execute this task
 
-## First you need to go to the path of folder where you cloned project for me for example cd /Users/Desktop/task/
+<p>First you need to go to the path of folder where you cloned project for me for example cd /Users/Desktop/task/</p>
 ## Then you need to run php artisan serve
 
 You will have 5 links:
