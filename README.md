@@ -1,7 +1,7 @@
 ## How to execute this task
 
 <p>First you need to go to the path of folder where you cloned project for me for example cd /Users/Desktop/task/</p>
-<p>Then you need to run php artisan serve</p>
+<p>Then you need to run php artisan serve in this current folder you have accessed before</p>
 
 <p>You will have 5 links:</p>
 
@@ -26,4 +26,6 @@ http://127.0.0.1:8000/api/update/article/1 for update the article in the databas
 http://127.0.0.1:8000/api/delete/article/1 for delete specific article from database,it will delete article wich ID is 1 (DELETE METHOD)
 
 Also all these example are covered with PHP Unit tests.
+
+Also in the "task" folder you will have "web_shop.sql" file wich you can import in mysql workbench or phpmyadmin or directly in command prompt.
 
